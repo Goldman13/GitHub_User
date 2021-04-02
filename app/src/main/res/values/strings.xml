@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="add_token_title">Enter token</string>
+</resources>
